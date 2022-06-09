@@ -1,0 +1,13 @@
+<h1>Angular Example: *ngIf syntax</h1>
+
+<p *ngIf="property; else loading">
+  App is loaded.
+</p>
+
+<ng-template #loading>
+  <p>
+    App is loading...
+  </p>
+</ng-template>
+
+<button (click)="start()">Restart</button>
