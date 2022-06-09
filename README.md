@@ -1,5 +1,5 @@
-# test-angular-example-ngif-syntax
+# test-angular-directive-ngif-syntax
 
 ## Demo 🎉
 
-* <https://piecioshka.github.io/test-angular-example-ngif-syntax/>
+* <https://piecioshka.github.io/test-angular-directive-ngif-syntax/>

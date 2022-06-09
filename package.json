@@ -1,5 +1,5 @@
 {
-  "name": "test-angular-example-ngif-syntax",
+  "name": "test-angular-directive-ngif-syntax",
   "version": "0.0.0",
   "private": true,
   "dependencies": {
