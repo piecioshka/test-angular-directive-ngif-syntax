@@ -1,3 +1,5 @@
 # test-angular-example-ngif-syntax
 
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/test-angular-example-ngif-syntax)
+## Demo 🎉
+
+* <https://piecioshka.github.io/test-angular-example-ngif-syntax/>

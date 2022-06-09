@@ -1,12 +1,12 @@
-import { Component } from '@angular/core';
+import { Component } from "@angular/core";
 
 @Component({
-  selector: 'my-app',
-  templateUrl: './app.component.html',
-  styleUrls: [ './app.component.css' ]
+  selector: "my-app",
+  templateUrl: "./app.component.html",
+  styleUrls: ["./app.component.css"],
 })
-export class AppComponent  {
-  public property = null;
+export class AppComponent {
+  public property: string | null = null;
 
   constructor() {
     this.start();
@@ -16,7 +16,7 @@ export class AppComponent  {
     this.property = null;
 
     setTimeout(() => {
-      this.property = 'Angular';
+      this.property = "Angular";
     }, 1000);
   }
 }
