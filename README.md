@@ -2,4 +2,4 @@
 
 ## Demo 🎉
 
-* <https://piecioshka.github.io/test-angular-directive-ngif-syntax/>
+<https://piecioshka.github.io/test-angular-directive-ngif-syntax/>
