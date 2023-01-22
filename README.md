@@ -2,6 +2,6 @@
 
 📒 Testing Angular directive `*ngIf` with `ng-template`
 
-## Demo 🎉
+## Preview 🎉
 
 <https://piecioshka.github.io/test-angular-directive-ngif-syntax/>
